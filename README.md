@@ -5,7 +5,7 @@ All my knowledge in terms of software is thanks to youtube and documentation, th
 
 Currently I try to share what I have learned with youtube videos and some articles on my website.
 
-I have worked with web technologies, Android and Google and Oracle backend servers; Right now, as a freelancer, I spend my free time learning game development whit unity and blender, personally it is an area that interests me a lot.
+I have worked with web technologies, Android and backend servers with Google, Oracle and Spring technologies; Right now, as a freelancer, I spend my free time learning game development whit unity and blender, personally it is an area that interests me a lot.
 
 If you want to reach me you can send me a DM on instagram, Facebook or send me an e-amil from my web site.
 
